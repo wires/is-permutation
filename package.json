@@ -1,0 +1,19 @@
+{
+  "name": "is-permutation.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/tape test/*.js | node_modules/.bin/faucet "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  },
+  "devDependencies": {
+    "faucet": "^0.0.1",
+    "tape": "^4.6.2"
+  }
+}
